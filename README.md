@@ -15,10 +15,13 @@ How it works:
 varbar(y, data, order = TRUE, plot = TRUE)
 
 "y" is the name for the dependant variable that you want to find 
-the variation of. 
+the variation of.
+
 "data" should be a dataframe of all of the variables to be tested, 
 including "y".
+
 order = FALSE to turn off automatic variable ordering in the plot.
+
 plot = FALSE to turn off the plotting.
 
  
